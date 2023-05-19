@@ -1,0 +1,5 @@
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\publish\DotNet.Docker2.exe
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\publish\DotNet.Docker2.dll
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\publish\DotNet.Docker2.deps.json
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\publish\DotNet.Docker2.runtimeconfig.json
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\publish\DotNet.Docker2.pdb

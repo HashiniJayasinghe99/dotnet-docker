@@ -1,0 +1,7 @@
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\myWebApp.exe
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\myWebApp.dll
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\myWebApp.deps.json
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\myWebApp.runtimeconfig.json
+C:\Users\Hashini\dotnet-docker\src\bin\Debug\net7.0\publish\myWebApp.pdb

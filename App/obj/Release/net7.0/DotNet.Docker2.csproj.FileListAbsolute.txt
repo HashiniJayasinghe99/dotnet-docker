@@ -1,0 +1,15 @@
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\DotNet.Docker2.exe
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\DotNet.Docker2.deps.json
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\DotNet.Docker2.runtimeconfig.json
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\DotNet.Docker2.dll
+C:\Users\Hashini\dotnet-docker\App\bin\Release\net7.0\DotNet.Docker2.pdb
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.csproj.AssemblyReference.cache
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.AssemblyInfoInputs.cache
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.AssemblyInfo.cs
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.csproj.CoreCompileInputs.cache
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.dll
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\refint\DotNet.Docker2.dll
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.pdb
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\DotNet.Docker2.genruntimeconfig.cache
+C:\Users\Hashini\dotnet-docker\App\obj\Release\net7.0\ref\DotNet.Docker2.dll
